@@ -3,10 +3,32 @@
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="stylesheet" href="./css/style.css">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Cifra de Cezar</title>
 </head>
 <body>
-    
+    <div class="container">
+    <header> Cifra de Cezar</header>
+    <main>
+    <div class="card">
+      <h1>Texto</h1>
+      <textarea id="texto_cripto" rows="4" cols="33">Escreva sua mensagem aqui</textarea>
+      <h1>Quantidade de pulos</h1>
+      <input type="text" id="contidade">
+      <h1>Resultado</h1>
+      <div id="resultado"></div>
+    </div>
+
+    <div class="row">
+        <button onclick="cripto()">Criptografar</button>
+        <button onclick="descripto()">Descriptografar</button>
+        <button onclick="limpar()">Limpar</button>
+       </div>
+</main>
+
+</div>
+
+    <script src="./js/script.js"></script>
 </body>
 </html>
