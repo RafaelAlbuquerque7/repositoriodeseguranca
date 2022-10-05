@@ -107,8 +107,11 @@ input{
     }
 }
 
-@media(max-width: 300px){
+@media(max-width: 420px){
     .card{
-    margin-top: 10vh;
+    margin-top: 2vh;
+    }
+    main{
+        height: 100vh;
     }
 }
