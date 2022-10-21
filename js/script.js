@@ -38,8 +38,10 @@ function descripto(){
   
         if (position <= 0) {
           let result = parseInt(position) + parseInt(alfabeto.length);
+          if(result === 26){
+            result = 0;
+          }
           descriptografar += alfabeto[result];
-          console.log(alfabeto.length);
           
         } else {
           descriptografar += alfabeto[position];
