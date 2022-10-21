@@ -36,8 +36,11 @@ function descripto(){
         const posicao = alfabeto.indexOf(texto_cripto[i]);
         const position = posicao - pulo;
   
-        if (position >= alfabeto.length) {
-          descriptografar += alfabeto[position - alfabeto.length];
+        if (position <= 0) {
+          let result = parseInt(position) + parseInt(alfabeto.length);
+          descriptografar += alfabeto[result];
+          console.log(alfabeto.length);
+          
         } else {
           descriptografar += alfabeto[position];
         }
