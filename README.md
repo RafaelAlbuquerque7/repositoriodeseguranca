@@ -20,4 +20,4 @@ HTML, CSS3 e JavaScript
 ## Autores
 
 - [Guilherme Ferreira Tombini](https://www.github.com/Guilherme-Ferreira-Tombini)
-- [Rafael de Andrade Albuquerque dos Santos](https://www.github.com/Guilherme-Ferreira-Tombini)
+- [Rafael de Andrade Albuquerque dos Santos](https://github.com/RafaelAlbuquerque7)
