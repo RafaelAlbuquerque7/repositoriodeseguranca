@@ -12,7 +12,7 @@ HTML, CSS3 e JavaScript
 
 
 
-## Foto do site
+## Fotos do site
 
 ### Desktop:
 ![foto1](https://user-images.githubusercontent.com/85890520/204046940-8ddfd124-f2c0-44a1-8a03-e66624255a18.png)
