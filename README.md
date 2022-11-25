@@ -1,7 +1,7 @@
 
 # Cifra de César
 
-Esse trabalho tem como objetivo de criar uma aplicação que criptografa textos com a Cifra de César
+Esse trabalho tem como objetivo criar uma aplicação que criptografa textos com a Cifra de César
 
 
 
